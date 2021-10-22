@@ -1,0 +1,16 @@
+#Message
+firstMsg = "\nWelcome to Geluza.\n"
+secondMsg = "Geluza is a multitasking program, to optimize your time \nwhen programming code in python or in your free time."
+#Button
+firstBtn = "Open Youtube."
+secondBtn = "Open GitHub."
+thirdBtn = "Python 3.10 Document."
+fourthBtn = "Look for a Module."
+Btn5 = "Open Spotify."
+Btn6 = "Open Gmail."
+Btn7 = "Open Netflix"
+Btn8 = "Open ASCII Generator."
+Btn9 = "Open Bitcoin chart."
+Btn10 = "Open Amazon."
+Btn11 = "Open Twitch."
+Btn12 = "Passsword Generator."
